@@ -1,5 +1,5 @@
 # Spanish to English dictionary
-spanish dictionary = {
+spanish_dictionary = {
     "hola": "hello",
     "adiós": "goodbye",
     "gracias": "thank you",
